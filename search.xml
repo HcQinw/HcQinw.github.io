@@ -25,18 +25,18 @@
     
     
     <entry>
-      <title>华中区域</title>
-      <link href="/2024/11/14/%E6%B0%B4%E7%94%B5%E4%B8%83%E5%B1%80/%E5%8D%8E%E4%B8%AD%E5%8C%BA%E5%9F%9F%E5%85%AC%E5%8F%B8/%E5%8D%8E%E4%B8%AD%E5%8C%BA%E5%9F%9F/"/>
-      <url>/2024/11/14/%E6%B0%B4%E7%94%B5%E4%B8%83%E5%B1%80/%E5%8D%8E%E4%B8%AD%E5%8C%BA%E5%9F%9F%E5%85%AC%E5%8F%B8/%E5%8D%8E%E4%B8%AD%E5%8C%BA%E5%9F%9F/</url>
+      <title>ECharts 折线图示例</title>
+      <link href="/2024/11/15/%E6%95%B0%E6%8D%AE/%E7%94%B5%E4%BB%B7%E6%95%B0%E6%8D%AE/%E4%BA%A4%E6%98%93%E7%94%B5%E4%BB%B7%E6%95%B0%E6%8D%AE/"/>
+      <url>/2024/11/15/%E6%95%B0%E6%8D%AE/%E7%94%B5%E4%BB%B7%E6%95%B0%E6%8D%AE/%E4%BA%A4%E6%98%93%E7%94%B5%E4%BB%B7%E6%95%B0%E6%8D%AE/</url>
       
-        <content type="html"><![CDATA[<h1 id="华中区域公司"><a href="#华中区域公司" class="headerlink" title="华中区域公司"></a>华中区域公司</h1><p>华中区域公司位于湖北省武汉市<br>主要负责：湖北省、湖南省、河南省、山西省、江西省</p><div id="echarts5334" style="width: 85%;height: 400px;margin: 0 auto"></div><script src="https://cdn.bootcss.com/echarts/3.8.0/echarts.common.min.js"></script><script type="text/javascript">        // 基于准备好的dom，初始化echarts实例        var myChart = echarts.init(document.getElementById('echarts5334'));        // 指定图表的配置项和数据        var option = option = {  xAxis: {    data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']  },  yAxis: {},  series: [    {      type: 'bar',      data: [23, 24, 18, 25, 27, 28, 25]    }  ]};        // 使用刚指定的配置项和数据显示图表。        myChart.setOption(option);</script>]]></content>
+        <content type="html"><![CDATA[<div id="main" style="width: 600px;height:400px;"></div> <script src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script> <script type="text/javascript"> // 基于准备好的dom，初始化echarts实例 var myChart = echarts.init(document.getElementById('main')); // 指定图表的配置项和数据 var option = {     title: {         text: '上网交易电价汇总标（所有电源类型）'     },     tooltip: {         trigger: 'axis'     },     xAxis: {         type: 'category',         data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']     },     yAxis: {         type: 'value'     },         series: [        {            name: '系列1',            data: [120, 200, 150, 80, 70, 110, 130],            type: 'line'        },        {            name: '系列2', // 新增系列的名称            data: [90, 180, 140, 90, 100, 120, 140], // 新增系列的数据            type: 'line' // 确保类型也是折线图    }] }; // 使用刚指定的配置项和数据显示图表。 myChart.setOption(option); </script>]]></content>
       
       
       <categories>
           
-          <category> 水电七局 </category>
+          <category> 数据 </category>
           
-          <category> 华中区域公司 </category>
+          <category> 电价数据 </category>
           
       </categories>
       
@@ -58,6 +58,27 @@
           <category> 水电七局 </category>
           
           <category> 华东区域公司 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>华中区域</title>
+      <link href="/2024/11/14/%E6%B0%B4%E7%94%B5%E4%B8%83%E5%B1%80/%E5%8D%8E%E4%B8%AD%E5%8C%BA%E5%9F%9F%E5%85%AC%E5%8F%B8/%E5%8D%8E%E4%B8%AD%E5%8C%BA%E5%9F%9F/"/>
+      <url>/2024/11/14/%E6%B0%B4%E7%94%B5%E4%B8%83%E5%B1%80/%E5%8D%8E%E4%B8%AD%E5%8C%BA%E5%9F%9F%E5%85%AC%E5%8F%B8/%E5%8D%8E%E4%B8%AD%E5%8C%BA%E5%9F%9F/</url>
+      
+        <content type="html"><![CDATA[<h1 id="华中区域公司"><a href="#华中区域公司" class="headerlink" title="华中区域公司"></a>华中区域公司</h1><p>华中区域公司位于湖北省武汉市<br>主要负责：湖北省、湖南省、河南省、山西省、江西省</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 水电七局 </category>
+          
+          <category> 华中区域公司 </category>
           
       </categories>
       
