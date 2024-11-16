@@ -4,18 +4,24 @@
   
     
     <entry>
-      <title>ECharts 折线图示例</title>
-      <link href="/2024/11/15/%E6%95%B0%E6%8D%AE/%E7%94%B5%E4%BB%B7%E6%95%B0%E6%8D%AE/%E4%BA%A4%E6%98%93%E7%94%B5%E4%BB%B7%E6%95%B0%E6%8D%AE/"/>
-      <url>/2024/11/15/%E6%95%B0%E6%8D%AE/%E7%94%B5%E4%BB%B7%E6%95%B0%E6%8D%AE/%E4%BA%A4%E6%98%93%E7%94%B5%E4%BB%B7%E6%95%B0%E6%8D%AE/</url>
+      <title>湖南省相关政策</title>
+      <link href="/2024/11/16/%E7%9B%B8%E5%85%B3%E6%94%BF%E7%AD%96/%E6%94%BF%E7%AD%96%E5%85%AC%E5%BC%80/%E5%9C%B0%E6%96%B9%E6%94%BF%E7%AD%96/%E6%B9%96%E5%8D%97%E7%9C%81%E6%94%BF%E7%AD%96/%E6%B9%96%E5%8D%97%E7%9C%81%E7%9B%B8%E5%85%B3%E6%94%BF%E7%AD%96/%E6%B9%96%E5%8D%97%E7%9C%81%E7%9B%B8%E5%85%B3%E6%94%BF%E7%AD%96/"/>
+      <url>/2024/11/16/%E7%9B%B8%E5%85%B3%E6%94%BF%E7%AD%96/%E6%94%BF%E7%AD%96%E5%85%AC%E5%BC%80/%E5%9C%B0%E6%96%B9%E6%94%BF%E7%AD%96/%E6%B9%96%E5%8D%97%E7%9C%81%E6%94%BF%E7%AD%96/%E6%B9%96%E5%8D%97%E7%9C%81%E7%9B%B8%E5%85%B3%E6%94%BF%E7%AD%96/%E6%B9%96%E5%8D%97%E7%9C%81%E7%9B%B8%E5%85%B3%E6%94%BF%E7%AD%96/</url>
       
-        <content type="html"><![CDATA[<div id="main" style="width: 600px;height:400px;"></div> <script src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script> <script type="text/javascript"> // 基于准备好的dom，初始化echarts实例 var myChart = echarts.init(document.getElementById('main')); // 指定图表的配置项和数据 var option = {     title: {         text: '上网交易电价汇总标（所有电源类型）'     },     tooltip: {         trigger: 'axis'     },     xAxis: {         type: 'category',         data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']     },     yAxis: {         type: 'value'     },         series: [        {            name: '系列1',            data: [120, 200, 150, 80, 70, 110, 130],            type: 'line'        },        {            name: '系列2', // 新增系列的名称            data: [90, 180, 140, 90, 100, 120, 140], // 新增系列的数据            type: 'line' // 确保类型也是折线图    }] }; // 使用刚指定的配置项和数据显示图表。 myChart.setOption(option); </script>]]></content>
+        <content type="html"><![CDATA[<div class="timeline "><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>湖南省相关政策</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><h1 id="2017"><a href="#2017" class="headerlink" title="2017"></a>2017</h1></div></div><div class='timeline-item-content'><hr></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><h2 id="7月26日-湖南省企业投资项目核准和备案管理办法-川发改项目-2024-476-号"><a href="#7月26日-湖南省企业投资项目核准和备案管理办法-川发改项目-2024-476-号" class="headerlink" title="7月26日   湖南省企业投资项目核准和备案管理办法  川发改项目[2024]476 号"></a>7月26日  <br> <mark class="hl-label blue">湖南省企业投资项目核准和备案管理办法</mark> <br> 川发改项目[2024]476 号</h2></div></div><div class='timeline-item-content'><p>第十六条 企业办理项目核准手续，应当按照国家有关要求编制项目申请报告。项目申请报告应当主要包括以下内容：</p><p>　　（一）项目单位情况；</p><p>　　（二）拟建项目情况，包括项目名称、建设地点、建设规模、建设内容等；</p><p>　　（三）项目资源利用情况分析以及对生态环境的影响分析；</p><p>　　（四）项目对经济和社会的影响分析。</p><p>第十七条 项目单位在报送项目申请报告时，应当根据国家法律法规的规定附具以下文件：</p><p>　　（一）城乡规划行政主管部门出具的选址意见书（仅指以划拨方式提供国有土地使用权的项目）；</p><p>　　（二）国土资源行政主管部门出具的用地预审意见（国土资源主管部门明确可以不进行用地预审的情形除外）；</p><p>　　（三）法律、行政法规规定需要办理的其他相关手续。</p><p><a href="https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202410/t20241017_1089484.html](https://fgw.sc.gov.cn/sfgw/qtwj/2024/9/25/e7219f7ef3cf4ae19abec3927f5e9100.shtml](https://www.hunan.gov.cn/hnszf/xxgk/wjk/szfbgt/201707/t20170726_4825657.html">相关链接</a></p></div></div></div>>)]]></content>
       
       
       <categories>
           
-          <category> 数据 </category>
+          <category> 相关政策 </category>
           
-          <category> 电价数据 </category>
+          <category> 政策公开 </category>
+          
+          <category> 地方政策 </category>
+          
+          <category> 湖南省政策 </category>
+          
+          <category> 湖南省相关政策 </category>
           
       </categories>
       
@@ -25,11 +31,11 @@
     
     
     <entry>
-      <title>湖南郴州集中式光伏</title>
+      <title>湖南郴州临武集中式光伏</title>
       <link href="/2024/11/15/%E4%B8%9A%E5%8A%A1%E6%9D%BF%E5%9D%97/%E5%85%89%E4%BC%8F%E5%8F%91%E7%94%B5/%E9%9B%86%E4%B8%AD%E5%BC%8F%E5%85%89%E4%BC%8F%E5%8F%91%E7%94%B5/"/>
       <url>/2024/11/15/%E4%B8%9A%E5%8A%A1%E6%9D%BF%E5%9D%97/%E5%85%89%E4%BC%8F%E5%8F%91%E7%94%B5/%E9%9B%86%E4%B8%AD%E5%BC%8F%E5%85%89%E4%BC%8F%E5%8F%91%E7%94%B5/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<img src='https://gitee.com/qhcde/hc-qinw_-demo/raw/master/img/临武县林地补偿标准' height=400px ><p><a href="http://www.lwx.gov.cn/fgfwzfwn/content_3013122.html">相关链接</a></p>]]></content>
       
       
       <categories>
@@ -37,6 +43,27 @@
           <category> 业务板块 </category>
           
           <category> 光伏发电 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ECharts 折线图示例</title>
+      <link href="/2024/11/15/%E6%95%B0%E6%8D%AE/%E7%94%B5%E4%BB%B7%E6%95%B0%E6%8D%AE/%E4%BA%A4%E6%98%93%E7%94%B5%E4%BB%B7%E6%95%B0%E6%8D%AE/"/>
+      <url>/2024/11/15/%E6%95%B0%E6%8D%AE/%E7%94%B5%E4%BB%B7%E6%95%B0%E6%8D%AE/%E4%BA%A4%E6%98%93%E7%94%B5%E4%BB%B7%E6%95%B0%E6%8D%AE/</url>
+      
+        <content type="html"><![CDATA[<div id="main" style="height:400px;"></div> <script src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script> <script type="text/javascript"> // 基于准备好的dom，初始化echarts实例 var myChart = echarts.init(document.getElementById('main')); // 指定图表的配置项和数据 var option = {     title: {         text: '上网交易电价汇总标（所有电源类型）'     },     tooltip: {         trigger: 'axis'     },     legend: {        data: ['四川省', '湖南省'] // 设置图例项，与series中的name对应    },    xAxis: {         type: 'category',         data: ['2023年1月', '2023年2月', '2023年3月', '2023年4月', '2023年5月', '2023年6月', '2023年7月','2023年8月','2023年9月','2023年10月','2023年11月','2023年12月','2024年1月','2024年2月','2024年3月','2024年4月','2024年5月','2024年6月','2024年7月','2024年8月','2024年9月','2024年10月','2024年11月']     },     yAxis: {         type: 'value'     },     dataZoom: [ // 添加数据缩放组件        {            type: 'slider', // 滑块型数据缩放组件            xAxisIndex: 0, // 控制X轴            start: 0, // 初始时窗口起始百分比            end: 100 // 初始时窗口结束百分比        },        {            type: 'inside', // 内置型数据缩放组件            xAxisIndex: 0 // 控制X轴        }    ],    series: [        {            name: '四川省',            data: [0.453,0.453,0.5022,0.4658,0.4101,0.3416,0.3599,0.3961,0.3365,0.3397,0.38,0.4847,0.4569,0.4754,0.4767,0.484,0.397,0.2789,0.2588,0.2605,0.3182,0.3253,0.3978],            type: 'line'        },        {            name: '湖南省',            data: [0.6098,0.59321,0.4959,0.5131,0.48246,0.45208,0.53561,0.53983,0.51117,0.49063,0.50024,0.52915,0.45522,0.4794,0.4745,0.4531,0.4558,0.454,0.4732,0.4776,0.4708,0.4619,0.4595],            type: 'line'        }    ] }; // 使用刚指定的配置项和数据显示图表。 myChart.setOption(option);</script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 数据 </category>
+          
+          <category> 电价数据 </category>
           
       </categories>
       
@@ -92,7 +119,7 @@
       <link href="/2024/10/11/%E7%9B%B8%E5%85%B3%E6%94%BF%E7%AD%96/%E6%94%BF%E7%AD%96%E5%85%AC%E5%BC%80/%E5%9B%BD%E5%AE%B6%E6%94%BF%E7%AD%96/%E5%9B%BD%E5%AE%B6%E6%94%BF%E7%AD%96/"/>
       <url>/2024/10/11/%E7%9B%B8%E5%85%B3%E6%94%BF%E7%AD%96/%E6%94%BF%E7%AD%96%E5%85%AC%E5%BC%80/%E5%9B%BD%E5%AE%B6%E6%94%BF%E7%AD%96/%E5%9B%BD%E5%AE%B6%E6%94%BF%E7%AD%96/</url>
       
-        <content type="html"><![CDATA[<div class="timeline "><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>全国相关政策</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><h1 id="2024"><a href="#2024" class="headerlink" title="2024"></a>2024</h1></div></div><div class='timeline-item-content'><hr></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><h2 id="10月17日-关于公开征求《关于加强陆域风电、光伏发电建设项目生态环境保护工作的通知（征求意见稿）》意见的函-环办便函〔2024〕338号"><a href="#10月17日-关于公开征求《关于加强陆域风电、光伏发电建设项目生态环境保护工作的通知（征求意见稿）》意见的函-环办便函〔2024〕338号" class="headerlink" title="10月17日   关于公开征求《关于加强陆域风电、光伏发电建设项目生态环境保护工作的通知（征求意见稿）》意见的函  环办便函〔2024〕338号"></a>10月17日  <br> <mark class="hl-label blue">关于公开征求《关于加强陆域风电、光伏发电建设项目生态环境保护工作的通知（征求意见稿）》意见的函</mark> <br> 环办便函〔2024〕338号</h2></div></div><div class='timeline-item-content'><ol><li>在严格落实项目生态环境保护措施及要求方面明确，严格控制噪声、光影闪烁对周边居民的影响。</li><li>充分考虑风电机组不同频率噪声及不同声源的叠加影响，重视风电机组光影闪烁影响，合理优化风电场内微观选址、布局，应通过科学预测，基于噪声、光影闪烁防护需求，<strong>新建风电项目的风机应距离周边居民、企事业单位等不得小于700米。</strong></li></ol><p><a href="https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202410/t20241017_1089484.html">相关链接</a><br> <a href="source/_posts/%E7%9B%B8%E5%85%B3%E6%94%BF%E7%AD%96/%E6%94%BF%E7%AD%96%E5%85%AC%E5%BC%80/%E5%9B%BD%E5%AE%B6%E6%94%BF%E7%AD%96/%E5%9B%BD%E5%AE%B6%E6%94%BF%E7%AD%96/%E5%85%B3%E4%BA%8E%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E3%80%8A%E5%85%B3%E4%BA%8E%E5%8A%A0%E5%BC%BA%E9%99%86%E5%9F%9F%E9%A3%8E%E7%94%B5%E3%80%81%E5%85%89%E4%BC%8F%E5%8F%91%E7%94%B5%E5%BB%BA%E8%AE%BE%E9%A1%B9%E7%9B%AE%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%E7%A8%BF%EF%BC%89%E3%80%8B%E6%84%8F%E8%A7%81%E7%9A%84%E5%87%BD.pdf">PDF下载</a></p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><h2 id="10月10日-关于印发2023年度全国可再生能源电力发展监测评价结果的通知-国能发新能〔2024〕80号"><a href="#10月10日-关于印发2023年度全国可再生能源电力发展监测评价结果的通知-国能发新能〔2024〕80号" class="headerlink" title="10月10日  关于印发2023年度全国可再生能源电力发展监测评价结果的通知  国能发新能〔2024〕80号"></a>10月10日 <br> <mark class="hl-label blue">关于印发2023年度全国可再生能源电力发展监测评价结果的通知</mark> <br> 国能发新能〔2024〕80号</h2></div></div><div class='timeline-item-content'><ol><li>国家能源局公布2023年度全国可再生能源电力发展监测评价结果。截至2023年底，全国可再生能源发电累计装机容量15.16亿千瓦，同比增长约25%，占全部电力装机的52%。</li><li>2023年全国可再生能源电力总量消纳责任权重实际完成32.0%，同比提高0.4个百分点。全国非水电可再生能源电力消纳责任权重实际完成18.1%，同比增长2.2个百分点。</li><li>2023年，全国及重点省份清洁能源消纳利用情况良好。2023年，全国风电平均利用率97.3%，同比提升0.5个百分点；蒙东、湖南、青海和甘肃风电利用率同比显著提升，蒙东风电利用率96.7%、湖南风电利用率99.7%、青海风电利用率94.2%、甘肃风电利用率95.0%，同比分别提升6.7、2.3、1.5、1.2个百分点。2023年，全国光伏发电利用率98.0%，同比降低0.3个百分点。全国主要流域水能利用率约99.4%，同比提高0.7个百分点。</li></ol><p> <a href="https://zfxxgk.nea.gov.cn/2024-10/10/c_1310787115.htm">相关链接</a></p></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div class="timeline "><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>全国相关政策</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><h1 id="2024"><a href="#2024" class="headerlink" title="2024"></a>2024</h1></div></div><div class='timeline-item-content'><hr></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><h2 id="10月17日-关于公开征求《关于加强陆域风电、光伏发电建设项目生态环境保护工作的通知（征求意见稿）》意见的函-环办便函〔2024〕338号"><a href="#10月17日-关于公开征求《关于加强陆域风电、光伏发电建设项目生态环境保护工作的通知（征求意见稿）》意见的函-环办便函〔2024〕338号" class="headerlink" title="10月17日   关于公开征求《关于加强陆域风电、光伏发电建设项目生态环境保护工作的通知（征求意见稿）》意见的函  环办便函〔2024〕338号"></a>10月17日  <br> <mark class="hl-label blue">关于公开征求《关于加强陆域风电、光伏发电建设项目生态环境保护工作的通知（征求意见稿）》意见的函</mark> <br> 环办便函〔2024〕338号</h2></div></div><div class='timeline-item-content'><ol><li>在严格落实项目生态环境保护措施及要求方面明确，严格控制噪声、光影闪烁对周边居民的影响。</li><li>充分考虑风电机组不同频率噪声及不同声源的叠加影响，重视风电机组光影闪烁影响，合理优化风电场内微观选址、布局，应通过科学预测，基于噪声、光影闪烁防护需求，<strong>新建风电项目的风机应距离周边居民、企事业单位等不得小于700米。</strong></li></ol><p><a href="https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202410/t20241017_1089484.html">相关链接</a><br> <a href="./%E5%85%B3%E4%BA%8E%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E3%80%8A%E5%85%B3%E4%BA%8E%E5%8A%A0%E5%BC%BA%E9%99%86%E5%9F%9F%E9%A3%8E%E7%94%B5%E3%80%81%E5%85%89%E4%BC%8F%E5%8F%91%E7%94%B5%E5%BB%BA%E8%AE%BE%E9%A1%B9%E7%9B%AE%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%E7%A8%BF%EF%BC%89%E3%80%8B%E6%84%8F%E8%A7%81%E7%9A%84%E5%87%BD.pdf">PDF下载</a></p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><h2 id="10月10日-关于印发2023年度全国可再生能源电力发展监测评价结果的通知-国能发新能〔2024〕80号"><a href="#10月10日-关于印发2023年度全国可再生能源电力发展监测评价结果的通知-国能发新能〔2024〕80号" class="headerlink" title="10月10日  关于印发2023年度全国可再生能源电力发展监测评价结果的通知  国能发新能〔2024〕80号"></a>10月10日 <br> <mark class="hl-label blue">关于印发2023年度全国可再生能源电力发展监测评价结果的通知</mark> <br> 国能发新能〔2024〕80号</h2></div></div><div class='timeline-item-content'><ol><li>国家能源局公布2023年度全国可再生能源电力发展监测评价结果。截至2023年底，全国可再生能源发电累计装机容量15.16亿千瓦，同比增长约25%，占全部电力装机的52%。</li><li>2023年全国可再生能源电力总量消纳责任权重实际完成32.0%，同比提高0.4个百分点。全国非水电可再生能源电力消纳责任权重实际完成18.1%，同比增长2.2个百分点。</li><li>2023年，全国及重点省份清洁能源消纳利用情况良好。2023年，全国风电平均利用率97.3%，同比提升0.5个百分点；蒙东、湖南、青海和甘肃风电利用率同比显著提升，蒙东风电利用率96.7%、湖南风电利用率99.7%、青海风电利用率94.2%、甘肃风电利用率95.0%，同比分别提升6.7、2.3、1.5、1.2个百分点。2023年，全国光伏发电利用率98.0%，同比降低0.3个百分点。全国主要流域水能利用率约99.4%，同比提高0.7个百分点。</li></ol><p> <a href="https://zfxxgk.nea.gov.cn/2024-10/10/c_1310787115.htm">相关链接</a></p></div></div></div>]]></content>
       
       
       <categories>
@@ -112,10 +139,10 @@
     
     <entry>
       <title>四川省相关政策</title>
-      <link href="/2024/10/11/%E7%9B%B8%E5%85%B3%E6%94%BF%E7%AD%96/%E6%94%BF%E7%AD%96%E5%85%AC%E5%BC%80/%E5%9C%B0%E6%96%B9%E6%94%BF%E7%AD%96/%E5%9B%9B%E5%B7%9D%E7%9C%81%E6%94%BF%E7%AD%96/%E6%9C%AA%E5%91%BD%E5%90%8D/"/>
-      <url>/2024/10/11/%E7%9B%B8%E5%85%B3%E6%94%BF%E7%AD%96/%E6%94%BF%E7%AD%96%E5%85%AC%E5%BC%80/%E5%9C%B0%E6%96%B9%E6%94%BF%E7%AD%96/%E5%9B%9B%E5%B7%9D%E7%9C%81%E6%94%BF%E7%AD%96/%E6%9C%AA%E5%91%BD%E5%90%8D/</url>
+      <link href="/2024/10/11/%E7%9B%B8%E5%85%B3%E6%94%BF%E7%AD%96/%E6%94%BF%E7%AD%96%E5%85%AC%E5%BC%80/%E5%9C%B0%E6%96%B9%E6%94%BF%E7%AD%96/%E5%9B%9B%E5%B7%9D%E7%9C%81%E6%94%BF%E7%AD%96/%E5%9B%9B%E5%B7%9D%E7%9C%81%E7%9B%B8%E5%85%B3%E6%94%BF%E7%AD%96/"/>
+      <url>/2024/10/11/%E7%9B%B8%E5%85%B3%E6%94%BF%E7%AD%96/%E6%94%BF%E7%AD%96%E5%85%AC%E5%BC%80/%E5%9C%B0%E6%96%B9%E6%94%BF%E7%AD%96/%E5%9B%9B%E5%B7%9D%E7%9C%81%E6%94%BF%E7%AD%96/%E5%9B%9B%E5%B7%9D%E7%9C%81%E7%9B%B8%E5%85%B3%E6%94%BF%E7%AD%96/</url>
       
-        <content type="html"><![CDATA[<div class="timeline "><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>全国相关政策</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><h1 id="2024"><a href="#2024" class="headerlink" title="2024"></a>2024</h1></div></div><div class='timeline-item-content'><hr></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><h2 id="10月17日-关于公开征求《关于加强陆域风电、光伏发电建设项目生态环境保护工作的通知（征求意见稿）》意见的函-环办便函〔2024〕338号"><a href="#10月17日-关于公开征求《关于加强陆域风电、光伏发电建设项目生态环境保护工作的通知（征求意见稿）》意见的函-环办便函〔2024〕338号" class="headerlink" title="10月17日   关于公开征求《关于加强陆域风电、光伏发电建设项目生态环境保护工作的通知（征求意见稿）》意见的函  环办便函〔2024〕338号"></a>10月17日  <br> <mark class="hl-label blue">关于公开征求《关于加强陆域风电、光伏发电建设项目生态环境保护工作的通知（征求意见稿）》意见的函</mark> <br> 环办便函〔2024〕338号</h2></div></div><div class='timeline-item-content'><ol><li>在严格落实项目生态环境保护措施及要求方面明确，严格控制噪声、光影闪烁对周边居民的影响。</li><li>充分考虑风电机组不同频率噪声及不同声源的叠加影响，重视风电机组光影闪烁影响，合理优化风电场内微观选址、布局，应通过科学预测，基于噪声、光影闪烁防护需求，<strong>新建风电项目的风机应距离周边居民、企事业单位等不得小于700米。</strong></li></ol><p><a href="https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202410/t20241017_1089484.html">相关链接</a><br> <a href="source/_posts/%E7%9B%B8%E5%85%B3%E6%94%BF%E7%AD%96/%E6%94%BF%E7%AD%96%E5%85%AC%E5%BC%80/%E5%9B%BD%E5%AE%B6%E6%94%BF%E7%AD%96/%E5%9B%BD%E5%AE%B6%E6%94%BF%E7%AD%96/%E5%85%B3%E4%BA%8E%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E3%80%8A%E5%85%B3%E4%BA%8E%E5%8A%A0%E5%BC%BA%E9%99%86%E5%9F%9F%E9%A3%8E%E7%94%B5%E3%80%81%E5%85%89%E4%BC%8F%E5%8F%91%E7%94%B5%E5%BB%BA%E8%AE%BE%E9%A1%B9%E7%9B%AE%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83%E4%BF%9D%E6%8A%A4%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%88%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%E7%A8%BF%EF%BC%89%E3%80%8B%E6%84%8F%E8%A7%81%E7%9A%84%E5%87%BD.pdf">PDF下载</a></p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><h2 id="10月10日-关于印发2023年度全国可再生能源电力发展监测评价结果的通知-国能发新能〔2024〕80号"><a href="#10月10日-关于印发2023年度全国可再生能源电力发展监测评价结果的通知-国能发新能〔2024〕80号" class="headerlink" title="10月10日  关于印发2023年度全国可再生能源电力发展监测评价结果的通知  国能发新能〔2024〕80号"></a>10月10日 <br> <mark class="hl-label blue">关于印发2023年度全国可再生能源电力发展监测评价结果的通知</mark> <br> 国能发新能〔2024〕80号</h2></div></div><div class='timeline-item-content'><ol><li>国家能源局公布2023年度全国可再生能源电力发展监测评价结果。截至2023年底，全国可再生能源发电累计装机容量15.16亿千瓦，同比增长约25%，占全部电力装机的52%。</li><li>2023年全国可再生能源电力总量消纳责任权重实际完成32.0%，同比提高0.4个百分点。全国非水电可再生能源电力消纳责任权重实际完成18.1%，同比增长2.2个百分点。</li><li>2023年，全国及重点省份清洁能源消纳利用情况良好。2023年，全国风电平均利用率97.3%，同比提升0.5个百分点；蒙东、湖南、青海和甘肃风电利用率同比显著提升，蒙东风电利用率96.7%、湖南风电利用率99.7%、青海风电利用率94.2%、甘肃风电利用率95.0%，同比分别提升6.7、2.3、1.5、1.2个百分点。2023年，全国光伏发电利用率98.0%，同比降低0.3个百分点。全国主要流域水能利用率约99.4%，同比提高0.7个百分点。</li></ol><p> <a href="https://zfxxgk.nea.gov.cn/2024-10/10/c_1310787115.htm">相关链接</a></p></div></div></div>>)]]></content>
+        <content type="html"><![CDATA[<div class="timeline "><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>四川省相关政策</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><h1 id="2024"><a href="#2024" class="headerlink" title="2024"></a>2024</h1></div></div><div class='timeline-item-content'><hr></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><h2 id="9月23日-关于印发《关于进一步强化要素保障全力推动重大项目加快建设的若干意见》的通知-川发改项目-2024-476号"><a href="#9月23日-关于印发《关于进一步强化要素保障全力推动重大项目加快建设的若干意见》的通知-川发改项目-2024-476号" class="headerlink" title="9月23日   关于印发《关于进一步强化要素保障全力推动重大项目加快建设的若干意见》的通知  川发改项目[2024]476号"></a>9月23日  <br> <mark class="hl-label blue">关于印发《关于进一步强化要素保障全力推动重大项目加快建设的若干意见》的通知</mark> <br> 川发改项目[2024]476号</h2></div></div><div class='timeline-item-content'><ol><li>强化前期工作激励</li><li>进一步简化投资项目审批</li><li>全力做好向上资金争取</li><li>加大项目融资支持力度</li><li>强化用地服务保障</li><li>提升土地集约利用水平</li><li>强化林草要素保障</li><li>优化自然保护地准入办理</li><li>加强砂石料保障利用</li><li>优化项目环评管理</li><li>深化生态环境领域改革</li><li>统筹优化用能配置</li><li>持续优化电力供应</li></ol><p><a href="%5Bhttps://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202410/t20241017_1089484.html%5D(https://fgw.sc.gov.cn/sfgw/qtwj/2024/9/25/e7219f7ef3cf4ae19abec3927f5e9100.shtml)">相关链接</a></p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><h2 id="2月4日-关于印发《四川省两项改革涉改乡镇农村电网巩固提升项目省级预算内基本建设投资补助管理办法》的通知-川发改能源规-2024-61号"><a href="#2月4日-关于印发《四川省两项改革涉改乡镇农村电网巩固提升项目省级预算内基本建设投资补助管理办法》的通知-川发改能源规-2024-61号" class="headerlink" title="2月4日  关于印发《四川省两项改革涉改乡镇农村电网巩固提升项目省级预算内基本建设投资补助管理办法》的通知  川发改能源规[2024]61号"></a>2月4日 <br> <mark class="hl-label blue">关于印发《四川省两项改革涉改乡镇农村电网巩固提升项目省级预算内基本建设投资补助管理办法》的通知</mark> <br> 川发改能源规[2024]61号</h2></div></div><div class='timeline-item-content'><ol><li>第三条：两项改革涉改乡镇农村电网巩固提升项目指为提升农村地区电力保障能力而开展的农村电网改造项目。</li><li>第五条：省预算内投资按项目总投资的10%给予补助，鼓励地方财政资金支持。</li></ol><p> <a href="%5Bhttps://zfxxgk.nea.gov.cn/2024-10/10/c_1310787115.htm%5D(https://fgw.sc.gov.cn/sfgw/qtwj/2024/2/18/4f66289b5f2e401db846852a083ae46e.shtml)">相关链接</a></p></div></div></div>>)]]></content>
       
       
       <categories>
