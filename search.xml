@@ -56,7 +56,7 @@
       <link href="/2024/11/15/%E6%95%B0%E6%8D%AE/%E7%94%B5%E4%BB%B7%E6%95%B0%E6%8D%AE/%E4%BA%A4%E6%98%93%E7%94%B5%E4%BB%B7%E6%95%B0%E6%8D%AE/"/>
       <url>/2024/11/15/%E6%95%B0%E6%8D%AE/%E7%94%B5%E4%BB%B7%E6%95%B0%E6%8D%AE/%E4%BA%A4%E6%98%93%E7%94%B5%E4%BB%B7%E6%95%B0%E6%8D%AE/</url>
       
-        <content type="html"><![CDATA[<hr><p>重要省份交易电价（所有能源类型）</p><div id="main" style="height:400px;"></div> <script src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script> <script type="text/javascript"> // 基于准备好的dom，初始化echarts实例 var myChart = echarts.init(document.getElementById('main')); // 指定图表的配置项和数据 var option = {     tooltip: {         trigger: 'axis'     },     legend: {        data: ['四川省', '湖南省','重庆市'], // 设置图例项，与series中的name对应    },    xAxis: {         type: 'category',         data: ['2023年1月', '2023年2月', '2023年3月', '2023年4月', '2023年5月', '2023年6月', '2023年7月','2023年8月','2023年9月','2023年10月','2023年11月','2023年12月','2024年1月','2024年2月','2024年3月','2024年4月','2024年5月','2024年6月','2024年7月','2024年8月','2024年9月','2024年10月','2024年11月']     },     yAxis: {         type: 'value'     },     dataZoom: [ // 添加数据缩放组件        {            type: 'slider', // 滑块型数据缩放组件            xAxisIndex: 0, // 控制X轴            start: 0, // 初始时窗口起始百分比            end: 100 // 初始时窗口结束百分比        },        {            type: 'inside', // 内置型数据缩放组件            xAxisIndex: 0 // 控制X轴        }    ],    series: [        {            name: '四川省',            data: [0.4530,0.4530,0.5022,0.4658,0.4101,0.3416,0.3599,0.3961,0.3365,0.3397,0.3800,0.4847,0.4569,0.4754,0.4767,0.4840,0.3970,0.2789,0.2588,0.2605,0.3182,0.3253,0.3978],            type: 'line'        },        {            name: '湖南省',            data: [0.6098,0.5932,0.4959,0.5131,0.4825,0.4521,0.5356,0.5398,0.5112,0.4906,0.5002,0.5292,0.4552,0.4794,0.4745,0.4531,0.4558,0.454,0.4732,0.4776,0.4708,0.4619,0.4595],            type: 'line'        },        {            name: '重庆市',            data: [0.5657,0.5507,0.5152,0.4532,0.4459,0.4407,0.5300,0.5304,0.4728,0.4402,0.4315,0.4407,0.4832,0.4834,0.4393,0.4447,0.4453,0.4373,0.4682,0.4916,0.4307,0.4334,0.5362],            type: 'line'        }    ] }; // 使用刚指定的配置项和数据显示图表。 myChart.setOption(option);</script>]]></content>
+        <content type="html"><![CDATA[<hr><p>重要省份交易电价（所有能源类型）</p><div id="main" style="height:400px;"></div> <script src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script> <script type="text/javascript"> // 基于准备好的dom，初始化echarts实例 var myChart = echarts.init(document.getElementById('main')); // 指定图表的配置项和数据 var option = {     tooltip: {         trigger: 'axis'     },     legend: {        data: ['四川省', '湖南省', '重庆市'] // 设置图例项，与series中的name对应    },    xAxis: {         type: 'category',         data: ['2023年1月', '2023年2月', '2023年3月', '2023年4月', '2023年5月', '2023年6月', '2023年7月','2023年8月','2023年9月','2023年10月','2023年11月','2023年12月','2024年1月','2024年2月','2024年3月','2024年4月','2024年5月','2024年6月','2024年7月','2024年8月','2024年9月','2024年10月','2024年11月'],        axisLabel: {            // 这里可以添加对坐标轴标签的自定义，比如旋转角度、字体大小等            rotate: 0, // 根据需要调整旋转角度            fontSize: 12 // 根据需要调整字体大小        }    },     yAxis: {         type: 'value',        axisLabel: {            formatter: function (value) {                // 这里可以对y轴的标签进行格式化，比如添加千分位分隔符                return value.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");            }        }    },     dataZoom: [ // 添加数据缩放组件        {            type: 'slider', // 滑块型数据缩放组件            xAxisIndex: 0, // 控制X轴            start: 0, // 初始时窗口起始百分比            end: 100 // 初始时窗口结束百分比        },        {            type: 'inside', // 内置型数据缩放组件            xAxisIndex: 0 // 控制X轴        }    ],    series: [        {            name: '四川省',            data: [0.4530,0.4530,0.5022,0.4658,0.4101,0.3416,0.3599,0.3961,0.3365,0.3397,0.3800,0.4847,0.4569,0.4754,0.4767,0.4840,0.3970,0.2789,0.2588,0.2605,0.3182,0.3253,0.3978],            type: 'line',            label: {                show: true, // 根据需要显示或隐藏标签                position: 'bottom',                formatter: function (params) {                    // 自定义标签内容，这里返回数值并添加单位                    return params.value.toFixed(4) + ' ';                },                textStyle: {                    fontSize: 10                }            }        },        {            name: '湖南省',            data: [0.6098,0.5932,0.4959,0.5131,0.4825,0.4521,0.5356,0.5398,0.5112,0.4906,0.5002,0.5292,0.4552,0.4794,0.4745,0.4531,0.4558,0.454,0.4732,0.4776,0.4708,0.4619,0.4595],            type: 'line',            label: {                show: true, // 根据需要显示或隐藏标签                position: 'bottom',                formatter: function (params) {                    // 自定义标签内容，这里返回数值并添加单位                    return params.value.toFixed(4) + ' ';                },                textStyle: {                    fontSize: 10                }            }            // 注意：由于配置相同，这里的label配置可以省略，以简化代码        },        {            name: '重庆市',            data: [0.5657,0.5507,0.5152,0.4532,0.4459,0.4407,0.5300,0.5304,0.4728,0.4402,0.4315,0.4407,0.4832,0.4834,0.4393,0.4447,0.4453,0.4373,0.4682,0.4916,0.4307,0.4334,0.5362],            type: 'line',            label: {              show: true, // 根据需要显示或隐藏标签                position: 'bottom',                formatter: function (params) {                    // 自定义标签内容，这里返回数值并添加单位                    return params.value.toFixed(4) + ' ';                },                textStyle: {                    fontSize: 10                }            }        }    ]};// 使用刚指定的配置项和数据显示图表。myChart.setOption(option);</script>]]></content>
       
       
       <categories>
@@ -64,27 +64,6 @@
           <category> 数据 </category>
           
           <category> 电价数据 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>华中区域</title>
-      <link href="/2024/11/14/%E6%B0%B4%E7%94%B5%E4%B8%83%E5%B1%80/%E5%8D%8E%E4%B8%AD%E5%8C%BA%E5%9F%9F%E5%85%AC%E5%8F%B8/%E5%8D%8E%E4%B8%AD%E5%8C%BA%E5%9F%9F/"/>
-      <url>/2024/11/14/%E6%B0%B4%E7%94%B5%E4%B8%83%E5%B1%80/%E5%8D%8E%E4%B8%AD%E5%8C%BA%E5%9F%9F%E5%85%AC%E5%8F%B8/%E5%8D%8E%E4%B8%AD%E5%8C%BA%E5%9F%9F/</url>
-      
-        <content type="html"><![CDATA[<h1 id="华中区域公司"><a href="#华中区域公司" class="headerlink" title="华中区域公司"></a>华中区域公司</h1><p>华中区域公司位于湖北省武汉市<br>主要负责：湖北省、湖南省、河南省、山西省、江西省</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 水电七局 </category>
-          
-          <category> 华中区域公司 </category>
           
       </categories>
       
@@ -106,6 +85,27 @@
           <category> 水电七局 </category>
           
           <category> 华东区域公司 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>华中区域</title>
+      <link href="/2024/11/14/%E6%B0%B4%E7%94%B5%E4%B8%83%E5%B1%80/%E5%8D%8E%E4%B8%AD%E5%8C%BA%E5%9F%9F%E5%85%AC%E5%8F%B8/%E5%8D%8E%E4%B8%AD%E5%8C%BA%E5%9F%9F/"/>
+      <url>/2024/11/14/%E6%B0%B4%E7%94%B5%E4%B8%83%E5%B1%80/%E5%8D%8E%E4%B8%AD%E5%8C%BA%E5%9F%9F%E5%85%AC%E5%8F%B8/%E5%8D%8E%E4%B8%AD%E5%8C%BA%E5%9F%9F/</url>
+      
+        <content type="html"><![CDATA[<h1 id="华中区域公司"><a href="#华中区域公司" class="headerlink" title="华中区域公司"></a>华中区域公司</h1><p>华中区域公司位于湖北省武汉市<br>主要负责：湖北省、湖南省、河南省、山西省、江西省</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 水电七局 </category>
+          
+          <category> 华中区域公司 </category>
           
       </categories>
       
